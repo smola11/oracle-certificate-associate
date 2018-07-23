@@ -1,4 +1,4 @@
-package com.company.javaBuildingBlocks1;
+package com.company.javaBuildingBlocks1.classAndPackages;
 
 public class Animal {
 }
