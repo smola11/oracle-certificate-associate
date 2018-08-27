@@ -1,4 +1,4 @@
-package com.company.javaBuildingBlocks1.creatingObjects;
+package com.oca.javaBuildingBlocks1.creatingObjects;
 
 public class OrderOfInitialization {
 
